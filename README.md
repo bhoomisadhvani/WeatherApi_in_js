@@ -32,7 +32,7 @@ This project allows users to enter a city name and check the current weather inf
 
 ## 📂 Project Structure
 
-```text
+
 Weather-API/
 │
 ├── index.html
@@ -43,4 +43,4 @@ Weather-API/
 🔗 Project Links
 💻 CodePen
 
-link : https://codepen.io/editor/bhoomisadhvani/pen/01a0c215-ae04-7649-90c9-b17d0a13c393?file=%2Fscript.js&orientation=left&panel=files&show=split
+link : https://codepen.io/editor/bhoomisadhvani/pen/01a0c215-ae04-7649-90c9-b17d0a13c393
