@@ -1,0 +1,46 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #a33494;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+#cityName {
+  width: 350px;
+  padding: 15px;
+  font-size: 18px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
+
+#cityName::placeholder {
+  font-size: 18px;
+}
+
+button {
+  width: 150px;
+  padding: 12px;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 30px;
+  padding: 20px;
+  min-width: 350px;
+  text-align: center;
+  font-size: 20px;
+  color:black;
+  border-radius: 10px;
+}
